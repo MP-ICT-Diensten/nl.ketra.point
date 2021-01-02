@@ -35,7 +35,6 @@ Homey devices for PIR and their functions:
   * With alarm delay of 40 seconds (non adjustable)
 
 
-
 Support notes:
 1. To use this app there is no subscription service from Minut needed.
 2. Alarm thresholts for like Noise, temp and humidity can be set using the Android, iOS or WebApp from Minut.
@@ -48,6 +47,9 @@ Supported Languages:
 * Dutch    
 
 Release notes:
-* Version ???
-  * Update to SDK v3
-
+* version 1.2.0
+  * Adds support for Glass break detection
+* version 1.0.9
+  * fix issue with alarm motion
+* version 1.0.8
+  * Added support for motion detection
